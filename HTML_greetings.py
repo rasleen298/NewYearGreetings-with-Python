@@ -52,7 +52,7 @@ New Opportunities..."</b></i>
 <img src="https://img.timesnownews.com/story/1546096823-fina.jpg?d=600x450" align="middle">
 <br><br><br>
 .....<b><i>End each year with a few good lessons, start a new one by showing that you have learned lessons of past well<br><br>
-A very HAPPY NEW YEAR in advance:)<br></b></i><br><br>Regards<br>XYZ<br>--sent using Python--', 'html')
+A very HAPPY NEW YEAR in advance:)<br></b></i><br><br>Regards<br>XYZ<br>sent using Python', 'html')
 
 
 
