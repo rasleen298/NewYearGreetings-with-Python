@@ -9,12 +9,13 @@
   ``` pip install openpyxl
       pip install certifi
   ```
+  
 ## **Note:**
 Before running this script,
-```Do check your gmail port by making a google search.
+Do check your gmail port by making a google search.
 
 Switch on less secure app on your gmail account here: https://myaccount.google.com/lesssecureapps
-```
+
 ## Valuable Resources:
 
 How to send emails with Python- https://realpython.com/python-send-email/
