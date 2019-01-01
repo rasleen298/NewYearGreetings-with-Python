@@ -6,16 +6,17 @@
 
 
 ## **PREREQUISITES:**
-   pip install openpyxl
-   
-   pip install certifi
-  
+  ``` pip install openpyxl
+      pip install certifi
+  ```
 ## **Note:**
 Before running this script,
-Switch on less secure app on your gmail account here: https://myaccount.google.com/lesssecureapps
+```Do check your gmail port by making a google search.
 
+Switch on less secure app on your gmail account here: https://myaccount.google.com/lesssecureapps
+```
 ## Valuable Resources:
 
-How to send email with Python- https://realpython.com/python-send-email/
+How to send emails with Python- https://realpython.com/python-send-email/
 
-How to work with Excel file https://coolpythoncodes.com/openpyxl-python-tutorial/
+How to work with Excel file- https://coolpythoncodes.com/openpyxl-python-tutorial/
