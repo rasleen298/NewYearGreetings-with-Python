@@ -1,7 +1,7 @@
 # NewYearGreetings-with-Python
 Sending New Year greetings Emails with Python!
 
-Python Scripts to automate Personalised as well as Formal Emails using inbuilt SMTP protocol library 'smtplib', and to access the emails stored in Excel Spreadsheet to send the mail to all contacts at once, using openpyxl.
+##Python Scripts to automate Personalised as well as Formal Emails using inbuilt SMTP protocol library 'smtplib', and to access the emails stored in Excel Spreadsheet to send the mail to all contacts at once, using openpyxl.
 
 
 To Be Installed:
