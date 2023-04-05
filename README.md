@@ -21,4 +21,4 @@ Switch on less secure app on your gmail account here: https://myaccount.google.c
 
 How to send emails with Python- https://realpython.com/python-send-email/
 
-How to work with Excel file- https://coolpythoncodes.com/openpyxl-python-tutorial/
+How to work with Excel file- https://coolpythoncodes.com/openpyxl-python-tutorial/ // this doesn't work now
